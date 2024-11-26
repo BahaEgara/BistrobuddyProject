@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828286871840",
+    "project_id": "bistrobuddyproject",
+    "storage_bucket": "bistrobuddyproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828286871840:android:2c19082d6ec0e3ad130f45",
+        "android_client_info": {
+          "package_name": "com.example.bistrobuddyproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkihrbrGSXOkJrL5ZSrUYxaGxM2uY6rZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
